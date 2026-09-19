@@ -5,24 +5,24 @@
 Me chamo Geovanna, tenho 22 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifecaf e iniciei Bacharelado em Ciência da Computação. Sou apaixonada por tecnologia e busco sempre colocar em prática meus novos conhecimentos em análise e manipulação de dados.
 
 <p align="left">
-    <a href="https://github.com/https://www.linkedin.com/in/geovanna-pereira/">
+    <a href="https://www.linkedin.com/in/geovanna-pereira/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+        />
+    </a>
+    <a href="https://github.com/GEOVANNA_SEU_USUARIO?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/GEOVANNA_SEU_USUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/https://www.linkedin.com/in/geovanna-pereira/">
+    <a href="https://github.com/GEOVANNA_SEU_USUARIO?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/GEOVANNA_SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
         />
     </a>
 </p>
