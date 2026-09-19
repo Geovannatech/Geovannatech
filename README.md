@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Geovanna, tenho 22 anos e sou natural de São Paulo. Conclu. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifecaf e inicie bacharel em ciencia da computação. Sou apaixonada por tecnologia, com/
+Me chamo Geovanna, tenho 22 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifecaf e inicie bacharel em ciência da computação. Sou apaixonada por tecnologia, busco sempre colocar em prática meus novos conhecimentos.
 /)".
 
 <p align="left">
